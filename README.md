@@ -1,5 +1,5 @@
 # FJH_ML
-Code and data available for the prediction of flash graphene crystallinity from flash Joule heating parameters. 
+Code and data available for the prediction of flash graphene crystallinity from flash Joule heating parameters. This project supports the paper "Machine learning guided synthesis of flash graphene" by Beckham et al., currently under review. 
 
 The file "RegressionAndPD" was used to compile performance metrics and analyses for the various models trained to predict GY. This file uses data from the dataset contained in "FJH_ML_Final.csv." 
 
